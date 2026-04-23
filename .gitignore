@@ -1,5 +1,9 @@
 # dependencies
 /node_modules
 
-# testing
+# build artifacts
+/dist
+*.tsbuildinfo
+
+# environment
 .env
